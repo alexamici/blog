@@ -1,0 +1,4 @@
+Sitemap: https://alexamici.github.io/blog/sitemapindex.xml
+
+User-Agent: *
+Host: alexamici.github.io
