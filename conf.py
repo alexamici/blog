@@ -130,12 +130,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/pages/about/", "About"),
         ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-    ),
-
-    "it": (
-        ("/it/archive.html", "Archivio"),
-        ("/it/categories/", "Tag"),
+        ("/categories/", "Topics"),
     ),
 }
 
