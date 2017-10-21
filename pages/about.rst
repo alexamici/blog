@@ -8,5 +8,5 @@
 .. type: text
 
 My name is Alessandro Amici,
-I'm a passionate and opinionated Software Engineer and Entrepreneur,
-I'm interested mostly in Remote Sensing, Climate and Python.
+I'm a passionate and fairly opinionated Software Engineer and Entrepreneur,
+I'm interested in Remote Sensing, Climate, Python, Coding Competitions and way too many other things.
